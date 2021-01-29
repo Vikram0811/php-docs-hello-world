@@ -15,7 +15,7 @@ variables:
   serviceConnectionToAzure: connectionto-php-testapp
   # the name of your web app here is the same one you used above
   # when you created the web app using the Azure CLI
-  appName: php-docs-hello-world
+  appName: testapp-php
 
 steps:
 - script: |
